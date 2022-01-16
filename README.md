@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Min Ho.
 
 <!--
 **Minho19/Minho19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
